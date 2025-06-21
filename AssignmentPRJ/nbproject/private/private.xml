@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/tailieu/tai%20lieu%20ki%204/prj/AssignmentPRJ/src/java/DAL/ShoppingDAO.java</file>
+            <file>file:/E:/tailieu/tai%20lieu%20ki%204/prj/AssignmentPRJ/src/java/Controller/SearchController.java</file>
+            <file>file:/E:/tailieu/tai%20lieu%20ki%204/prj/AssignmentPRJ/src/java/DAL/DBConnect.java</file>
+            <file>file:/E:/tailieu/tai%20lieu%20ki%204/prj/AssignmentPRJ/src/java/Entity/AddressDTO.java</file>
+            <file>file:/E:/tailieu/tai%20lieu%20ki%204/prj/AssignmentPRJ/web/CreateUser.jsp</file>
+            <file>file:/E:/tailieu/tai%20lieu%20ki%204/prj/AssignmentPRJ/src/java/Controller/viewCartController.java</file>
+            <file>file:/E:/tailieu/tai%20lieu%20ki%204/prj/AssignmentPRJ/src/java/DAL/UserDAO.java</file>
+            <file>file:/E:/tailieu/tai%20lieu%20ki%204/prj/AssignmentPRJ/src/java/Entity/ProductDTO.java</file>
+            <file>file:/E:/tailieu/tai%20lieu%20ki%204/prj/AssignmentPRJ/src/java/Controller/CreateController.java</file>
+            <file>file:/E:/tailieu/tai%20lieu%20ki%204/prj/AssignmentPRJ/src/java/DAL/Cart.java</file>
+            <file>file:/E:/tailieu/tai%20lieu%20ki%204/prj/AssignmentPRJ/web/shoppingbag.jsp</file>
+            <file>file:/E:/tailieu/tai%20lieu%20ki%204/prj/AssignmentPRJ/src/java/Entity/UserDTO.java</file>
+            <file>file:/E:/tailieu/tai%20lieu%20ki%204/prj/AssignmentPRJ/src/java/Controller/DeleteController.java</file>
+            <file>file:/E:/tailieu/tai%20lieu%20ki%204/prj/AssignmentPRJ/src/java/Controller/MainController.java</file>
+            <file>file:/E:/tailieu/tai%20lieu%20ki%204/prj/AssignmentPRJ/src/java/Controller/RemoveFromCartController.java</file>
+            <file>file:/E:/tailieu/tai%20lieu%20ki%204/prj/AssignmentPRJ/src/java/Controller/LogoutController.java</file>
+            <file>file:/E:/tailieu/tai%20lieu%20ki%204/prj/AssignmentPRJ/src/java/Controller/AddCartController.java</file>
+            <file>file:/E:/tailieu/tai%20lieu%20ki%204/prj/AssignmentPRJ/web/Update.jsp</file>
+            <file>file:/E:/tailieu/tai%20lieu%20ki%204/prj/AssignmentPRJ/web/user.jsp</file>
+            <file>file:/E:/tailieu/tai%20lieu%20ki%204/prj/AssignmentPRJ/web/checkout.jsp</file>
+            <file>file:/E:/tailieu/tai%20lieu%20ki%204/prj/AssignmentPRJ/src/java/Controller/ViewshopController.java</file>
+            <file>file:/E:/tailieu/tai%20lieu%20ki%204/prj/AssignmentPRJ/src/java/Controller/LoginController.java</file>
+            <file>file:/E:/tailieu/tai%20lieu%20ki%204/prj/AssignmentPRJ/web/admin.jsp</file>
+            <file>file:/E:/tailieu/tai%20lieu%20ki%204/prj/AssignmentPRJ/web/shopping.jsp</file>
+            <file>file:/E:/tailieu/tai%20lieu%20ki%204/prj/AssignmentPRJ/src/java/Controller/UpdateController.java</file>
+            <file>file:/E:/tailieu/tai%20lieu%20ki%204/prj/AssignmentPRJ/src/java/Controller/UpdateFromCartController.java</file>
+            <file>file:/E:/tailieu/tai%20lieu%20ki%204/prj/AssignmentPRJ/src/java/Controller/CheckoutController.java</file>
+            <file>file:/E:/tailieu/tai%20lieu%20ki%204/prj/AssignmentPRJ/web/login.jsp</file>
+        </group>
+    </open-files>
+</project-private>
